@@ -82,23 +82,67 @@
         </div>
         <p class="title">单人特色套餐</p>
         <div class="wrap1">
-          <img src="../image/foot.png" alt="">
-          <ul>
-            <li>
-              <h2>皮蛋瘦肉粥配包子套餐</h2>
-            </li>
-            <li>
-              <p>咸粥</p>
-            </li>
-            <li>
-              <p>月销1132份<span>好评率100%</span></p>
-            </li>
-            <li>
-              <p>￥24</p>
-              <p>￥28</p>
-              <p>+</p>
-            </li>
-          </ul>
+          <div>
+            <img src="../image/foot.png" alt="">
+            <ul>
+              <li>
+                <h2>皮蛋瘦肉粥配包子套餐</h2>
+              </li>
+              <li>
+                <p>咸粥</p>
+              </li>
+              <li>
+                <p>月销1132份<span>好评率100%</span></p>
+              </li>
+              <li>
+                <p>￥24</p>
+                <p>￥28</p>
+                <p>+</p>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="wrap1">
+          <div>
+            <img src="../image/foot.png" alt="">
+            <ul>
+              <li>
+                <h2>皮蛋瘦肉粥配包子套餐</h2>
+              </li>
+              <li>
+                <p>咸粥</p>
+              </li>
+              <li>
+                <p>月销1132份<span>好评率100%</span></p>
+              </li>
+              <li>
+                <p>￥24</p>
+                <p>￥28</p>
+                <p>+</p>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="wrap1">
+          <div>
+            <img src="../image/foot.png" alt="">
+            <ul>
+              <li>
+                <h2>皮蛋瘦肉粥配包子套餐</h2>
+              </li>
+              <li>
+                <p>咸粥</p>
+              </li>
+              <li>
+                <p>月销1132份<span>好评率100%</span></p>
+              </li>
+              <li>
+                <p>￥24</p>
+                <p>￥28</p>
+                <p>+</p>
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
     </div>
